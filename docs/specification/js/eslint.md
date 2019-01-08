@@ -19,7 +19,9 @@ ESLint 是在 ECMAScript/JavaScript 代码中识别和报告模式匹配的工�
 npm install eslint eslint-plugin-react --save-dev
 ```
 
-3、eslint 配置文件 `.eslintrc.js`
+3、eslint 配置文件
+
+在项目根目录中，新建 `.eslintrc.js`
 
 ```javascript
 module.exports = {

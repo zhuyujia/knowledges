@@ -32,7 +32,9 @@
 npm install stylelint stylelint-scss --save-dev
 ```
 
-4、stylelint 配置文件 `.stylelintrc.js`
+4、stylelint 配置文件
+
+在项目根目录中，新建 `.stylelintrc.js`
 
 ```javascript
 module.exports = {v
